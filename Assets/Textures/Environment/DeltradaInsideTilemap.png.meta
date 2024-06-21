@@ -1,0 +1,997 @@
+fileFormatVersion: 2
+guid: 19ee63bf45768cb4caa0dd5550c22f49
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2488f685b7758ca4eb85f095c572e38c
+      internalID: 64890027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0f55c900bd53f468ea1e689d8b93f6
+      internalID: -839154890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e367aa1ed2f9f8449742f9532a8997a
+      internalID: 91677431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_3
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 368
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d2a5ad4e686d84baf261cba96ffb6e
+      internalID: 351746659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a06065d9aaac60408765ee0640e3148
+      internalID: 1042767257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 368
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11473ce040bdc9419e5183d16517342
+      internalID: 1029388274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c0b9924b204794589eceb97e8cce07
+      internalID: 879861791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_7
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f298674b7120947a15ddb7684c1947
+      internalID: -264505815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 336
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd320eab33b46a94d9e46a3419bc16ff
+      internalID: 908519079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 336
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375c6d8736a1afb47ba8e2f0bb022def
+      internalID: 1933402316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 336
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ae218b18b1ef40a3b38c88898be02
+      internalID: -696347027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34247e3991cb3ef48918420602026e22
+      internalID: 1948510790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda02f625e512141a4d8686562bde31
+      internalID: -1365228598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 304
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b06868c6808504e864e205e5d5a4fb
+      internalID: 2077593315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e6647ad9a50854ab5fed68a7a86eb5
+      internalID: -1905798425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 304
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7d8f3e80c5ec8438f3c781d437e7ca
+      internalID: 91653408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6c9a93181379e41a8c2c9d315e73cb
+      internalID: 1253018455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_17
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6881d29bbfe44eaa556ad915ed2a4
+      internalID: 1305640203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 272
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d113924815fa6354ea600938577b9bb8
+      internalID: -959559269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 272
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8397c2414d8a2674f9cc6b270e6b47b5
+      internalID: -269061305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 272
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8eaba0ad6d63d4bb3d73454f539f7f
+      internalID: 1820836619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a29238dcf94db4a9524c33cd710ec7
+      internalID: -1641112613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c73f4edcb91764ba96c6f47cd22c31
+      internalID: 1037693708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 240
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c53c2f0b9c6f4783e636980a56ec8
+      internalID: 379190343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 240
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f648f3f0e5895a42a5112c4a225ad9b
+      internalID: 711874755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff6067efe4aeeb4c8035a64eca9e962
+      internalID: -917737345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d920baa2dc1264bb64cd080877081e
+      internalID: 1497684179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10295bd3a4ac6a40a755db0f1986ca0
+      internalID: -1749186411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeltradaInsideTilemap_28
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      physicsShape:
+      - - {x: 0, y: -16}
+        - {x: 32, y: 0}
+        - {x: 0, y: 16}
+        - {x: -32, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46930e0c7cfeaae40a46b95b2cbc59f1
+      internalID: 1569713129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DeltradaInsideTilemap_0: 64890027
+      DeltradaInsideTilemap_1: -839154890
+      DeltradaInsideTilemap_10: -696347027
+      DeltradaInsideTilemap_11: 1948510790
+      DeltradaInsideTilemap_12: -1365228598
+      DeltradaInsideTilemap_13: 2077593315
+      DeltradaInsideTilemap_14: -1905798425
+      DeltradaInsideTilemap_15: 91653408
+      DeltradaInsideTilemap_16: 1253018455
+      DeltradaInsideTilemap_17: 1305640203
+      DeltradaInsideTilemap_18: -959559269
+      DeltradaInsideTilemap_19: -269061305
+      DeltradaInsideTilemap_2: 91677431
+      DeltradaInsideTilemap_20: 1820836619
+      DeltradaInsideTilemap_21: -1641112613
+      DeltradaInsideTilemap_22: 1037693708
+      DeltradaInsideTilemap_23: 379190343
+      DeltradaInsideTilemap_24: 711874755
+      DeltradaInsideTilemap_25: -917737345
+      DeltradaInsideTilemap_26: 1497684179
+      DeltradaInsideTilemap_27: -1749186411
+      DeltradaInsideTilemap_28: 1569713129
+      DeltradaInsideTilemap_3: 351746659
+      DeltradaInsideTilemap_4: 1042767257
+      DeltradaInsideTilemap_5: 1029388274
+      DeltradaInsideTilemap_6: 879861791
+      DeltradaInsideTilemap_7: -264505815
+      DeltradaInsideTilemap_8: 908519079
+      DeltradaInsideTilemap_9: 1933402316
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
