@@ -29,16 +29,27 @@ public class PlayerMovement : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0))
         {
-            // Get the mouse position in the world
-            Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            mousePosition.z = 0; // Since we are working in 2D, set z to 0
+            // Get the mouse position on the screen
+            Vector3 mouseScreenPosition = Input.mousePosition;
 
-            // Add the offset to the target position to account for the player's feet
-            Vector3 footPosition = new Vector3(mousePosition.x, mousePosition.y + footOffset, mousePosition.z);
+            // Calculate the width threshold for the right quarter of the screen
+            float screenWidth = Screen.width;
+            float rightQuarterThreshold = screenWidth * 0.75f;
 
-            // Set the target position
-            targetPosition = footPosition;
-            isMoving = true;
+            // Check if the mouse is in the right quarter of the screen
+            if (mouseScreenPosition.x < rightQuarterThreshold)
+            {
+                // Get the mouse position in the world
+                Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+                mousePosition.z = 0; // Since we are working in 2D, set z to 0
+
+                // Add the offset to the target position to account for the player's feet
+                Vector3 footPosition = new Vector3(mousePosition.x, mousePosition.y + footOffset, mousePosition.z);
+
+                // Set the target position
+                targetPosition = footPosition;
+                isMoving = true;
+            }
         }
     }
 
