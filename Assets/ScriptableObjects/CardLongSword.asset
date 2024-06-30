@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7ea6194b76daf84c8d70f7ce4c18522, type: 3}
+  m_Name: CardLongSword
+  m_EditorClassIdentifier: 
+  Item: {fileID: 996432365, guid: c07b0d1d68081fb49889b218fa02f7be, type: 3}
+  title: LongSword
+  description: Sword used by all of Canids units.
